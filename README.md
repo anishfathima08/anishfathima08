@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hello! I'm Anish Fathima S
 
-<!--
-**anishfathima08/anishfathima08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **MERN Full Stack Developer** with a passion for building interactive and scalable web applications. I specialize in both **frontend** and **backend** technologies, creating seamless user experiences and robust server-side logic.
 
-Here are some ideas to get you started:
+## 💻 Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Technologies:
+- **HTML** | **CSS** | **Bootstrap** | **Tailwind CSS**  
+- **JavaScript** | **React.js**
+
+### Backend Technologies:
+- **Node.js** | **Express.js**  
+- **MongoDB** | **Mongoose**
+
+### Tools & Plugins:
+- **VS Code** | **Sublime Text** | **Figma**  
+- **AOS** | **DaisyUI** | **Swiper** | **React Bootstrap**
+
+### Version Control:
+- **Git** | **GitHub**
+
+### UI/UX Design:
+- Knowledge of **UI/UX** design principles.
+
+## 🌟 Projects & Experience
+I have worked on several **MERN stack projects**, building scalable and efficient web applications. My experience ranges from simple applications to complex projects, all aimed at solving real-world problems.
+
+## 📬 Contact Information
+- **Email**: [anishfathima0808@gmail.com](mailto:anishfathima0808@gmail.com)
+- **LinkedIn**: [Anish Fathima](https://www.linkedin.com/in/anishfathima/)
+- **Portfolio**: [anishfathima-portfolio.netlify.app](https://anishfathima-portfolio.netlify.app)
+
+## 🚀 Let's Build Something Amazing Together!
+Feel free to reach out to me for collaboration or any exciting opportunities in web development. I'm always eager to learn and grow in the world of technology!
+
+---
+
+Thanks for checking out my profile! 😊
