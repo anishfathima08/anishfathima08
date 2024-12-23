@@ -27,7 +27,7 @@ I have worked on several **MERN stack projects**, building scalable and efficien
 
 ## 📬 Contact Information
 - **Email**: [anishfathima0808@gmail.com](mailto:anishfathima0808@gmail.com)
-- **LinkedIn**: [Anish Fathima](https://www.linkedin.com/in/anishfathima/)
+- **LinkedIn**: [Anish Fathima S](https://www.linkedin.com/in/anishfathima/)
 - **Portfolio**: [anishfathima-portfolio.netlify.app](https://anishfathima-portfolio.netlify.app)
 
 ## 🚀 Let's Build Something Amazing Together!
