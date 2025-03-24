@@ -1,25 +1,25 @@
-👋 Hello! I'm Anish Fathima S
+#👋 Hello! I'm Anish Fathima S
 
 I am a **MERN Full Stack Developer** with a passion for building interactive and scalable web applications. I specialize in both **frontend** and **backend** technologies, creating seamless user experiences and robust server-side logic.
 
 ## 💻 Technologies & Tools
 
-### Frontend Technologies:
+## Frontend Technologies:
 - **HTML** | **CSS** | **Bootstrap** | **Tailwind CSS**  
 - **JavaScript** | **React.js**
 
-### Backend Technologies:
+## Backend Technologies:
 - **Node.js** | **Express.js**  
 - **MongoDB** | **Mongoose**
 
-### Tools & Plugins:
+## Tools & Plugins:
 - **VS Code** | **Sublime Text** | **Figma**  
 - **AOS** | **DaisyUI** | **Swiper** | **React Bootstrap**
 
-### Version Control:
+## Version Control:
 - **Git** | **GitHub**
 
-### UI/UX Design:
+## UI/UX Design:
 - Knowledge of **UI/UX** design principles.
 
 ## 🌟 Projects & Experience
