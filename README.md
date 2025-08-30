@@ -35,7 +35,7 @@ From crafting clean **frontend interfaces** to developing efficient **backend sy
 
 ## 📬 Connect With Me  
 
-- 📧 **Email**: [anishfathima0808@gmail.com](mailto:anishfathima324@gmail.com)  
+- 📧 **Email**: [anishfathima324@gmail.com](mailto:anishfathima324@gmail.com)  
 - 💼 **LinkedIn**: [Anish Fathima S](https://www.linkedin.com/in/anishfathima/)  
 - 🌍 **Portfolio**: [anishfathima-portfolio.netlify.app](https://anishfathima-portfolio.netlify.app)  
 
